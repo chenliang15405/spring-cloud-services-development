@@ -1,0 +1,1 @@
+This is a spring cloud config git development uri file.
